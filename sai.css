@@ -1,0 +1,24 @@
+*{
+    margin:0.5rem 0rem;
+    padding:0;
+    box-sizing: border-box;
+    background-color: aqua;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+.container{
+    min-height: 90vh;
+    width: 50vw;
+}
+span{
+    padding-bottom: 0;
+    border-bottom: yellow solid;
+}
+  
+.space{
+    margin:1.3rem 0rem;
+}
